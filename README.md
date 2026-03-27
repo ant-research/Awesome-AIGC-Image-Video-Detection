@@ -114,6 +114,7 @@ A curated collection of the latest research and resources on AI-Generated Image 
 | [Zoom-In to Sort AI-Generated Images Out](https://arxiv.org/pdf/2510.04225) | ICLR 2026 | `[I]` | Thinking with Images, MagniFake Dataset | N/A |
 | [AgentFoX: LLM Agent-Guided Fusion with eXplainability for AI-Generated Image Detection](https://arxiv.org/pdf/2603.23115) | Arxiv 2026 | `[I]` | Agentic framework | [Github](https://github.com/suncore946/AgentFoX) |
 | [EvoGuard: An Extensible Agentic RL-based Framework for Practical and Evolving AI-Generated Image Detection](https://arxiv.org/pdf/2603.17343) | Arxiv 2026 | `[I]` | Agentic Framework, Method Ensembling | N/A |
+| [VIGIL: Part-Grounded Structured Reasoning for Generalizable Deepfake Detection](https://arxiv.org/pdf/2603.21526) | Arxiv 2026 | `[I]` | Part-centric Forensic, OmniFake Dataset | [Project](https://vigil.best/) |
 | [GenVideoLens: Where LVLMs Fall Short in AI-Generated Video Detection?](https://arxiv.org/pdf/2603.18625) | Arxiv 2026 | `[V]` | GenVideoLens benchmark | N/A |
 | [Semantic Visual Anomaly Detection and Reasoning in AI-Generated Images](https://arxiv.org/pdf/2510.10231) | ICLR 2026 | `[I]` | Semantic Anomaly Reasoning, AnomReason Dataset | N/A |
 | [FAKE-HR1: RETHINKING REASONING OF VISION LANGUAGE MODEL FOR SYNTHETIC IMAGE DETECTION](https://arxiv.org/pdf/2602.10042v1) | Arxiv 2026 | `[I]` | Hybrid-Reasoning, Dual-mode Dataset | N/A |

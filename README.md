@@ -22,6 +22,7 @@ A curated collection of the latest research and resources on AI-Generated Image 
 ---
 
 ## 🔥 Hot Events
+- [就AI换脸合成、影视素材魔改等，中广联演员委员会发声明](https://m.thepaper.cn/newsDetail_forward_32880368)
 
 - [Is the new video of Netanyahu AI-generated?](https://x.com/ripplexrpie/status/2033212021647270063?s=46)
 

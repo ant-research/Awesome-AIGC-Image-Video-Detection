@@ -22,6 +22,8 @@ A curated collection of the latest research and resources on AI-Generated Image 
 ---
 
 ## 🔥 Hot Events
+- [⭐️ 刚刚，阿里官方认领神秘「欢乐马」(HappyHorse)，来自ATH郑波团队](https://weibo.com/8214551477/5286126636237040)
+
 - [就AI换脸合成、影视素材魔改等，中广联演员委员会发声明](https://m.thepaper.cn/newsDetail_forward_32880368)
 
 - [Is the new video of Netanyahu AI-generated?](https://x.com/ripplexrpie/status/2033212021647270063?s=46)
@@ -113,6 +115,7 @@ A curated collection of the latest research and resources on AI-Generated Image 
 | --- | --- | --- | --- | --- |
 | [VideoVeritas: AI-Generated Video Detection via Perception Pretext Reinforcement Learning](https://arxiv.org/pdf/2602.08828) | Arxiv 2026 | `[V]` | Perception Pretext RL, Fact-based Reasoning, MintVid Dataset | [GitHub](https://github.com/EricTan7/VideoVeritas) |
 | [Veritas: Generalizable deepfake detection via pattern-aware reasoning](https://arxiv.org/pdf/2508.21048) | ICLR 2026(Oral) | `[I]` | Pattern-aware Reasoning, HydraFake Dataset | [Github](https://github.com/EricTan7/Veritas) |
+| [DocShield: Towards AI Document Safety via Evidence-Grounded Agentic Reasoning](https://arxiv.org/pdf/2604.02694) | Arxiv 2026 | `[M]` | Agentic Framework, Document Safety | N/A |
 | [VidGuard-R1: AI-Generated Video Detection and Explanation via Reasoning MLLMs and RL](https://arxiv.org/abs/2510.02282) | ICLR 2026 | `[V]` | Multi-stage RL, Video Detection Dataset | [GitHub](https://github.com/kyoungjunpark/VidGuard-R1) |
 | [FakeXplain: AI-Generated Image Detection via Human-Aligned Grounded Reasoning](https://arxiv.org/pdf/2506.07045) | ICLR 2026 | `[I]` | Grounded Reasoning, Human-annotated Dataset | N/A |
 | [AlignGemini: Generalizable AI-Generated Image Detection Through Task-Model Alignment](https://arxiv.org/pdf/2512.06746) | Arxiv 2026 | `[I]` | Decoupling (Semantic & Pixel), AIGI-Now Dataset | N/A |

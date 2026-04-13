@@ -290,3 +290,15 @@ For questions or collaborations, please contact:
 ⬆ [Back to Top](#contents)
 
 ---
+
+### Star History
+
+<a href="https://www.star-history.com/?repos=ant-research%2FAwesome-AIGC-Image-Video-Detection&type=date&logscale=&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=ant-research/Awesome-AIGC-Image-Video-Detection&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=ant-research/Awesome-AIGC-Image-Video-Detection&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=ant-research/Awesome-AIGC-Image-Video-Detection&type=date&legend=top-left" />
+ </picture>
+</a>
+
+---

@@ -57,7 +57,8 @@ A curated collection of the latest research and resources on AI-Generated Image 
 
 | Benchmark | Paper | Venue & Year | Modality | Notes | Real Source | Fake Source/Generator | Annotation | Scale | Download |
 | :-------- | :---- | :----------- | :------- | :------ | :---------- | :-------------------- | :--------- | :---- | :------- |
-| ActivityForensics | [ActivityForensics: A Comprehensive Benchmark for Localizing Manipulated Activity in Videos](https://arxiv.org/pdf/2604.03819) | CVPR 2026 | `[V]` | action-level AIGC in videos | | | `Au` | 6K | [ActivityForensics](https://activityforensics.github.io/) |
+| SciFigDetect | [SciFigDetect: A Benchmark for AI-Generated Scientific Figure Detection](https://arxiv.org/pdf/2604.08211) | Arxiv 2026 | `[I]` | Scientific Figure Detection | | Nano Banana Pro, GPT-image-1.5 | `Au` | 150K | [SciFigDetect](https://joyce-yoyo.github.io/SciFigDetect/#access) |
+| ActivityForensics | [ActivityForensics: A Comprehensive Benchmark for Localizing Manipulated Activity in Videos](https://arxiv.org/pdf/2604.03819) | CVPR 2026 | `[V]` | Action-level AIGC in videos | | | `Au` | 6K | [ActivityForensics](https://activityforensics.github.io/) |
 | MintVid | [VideoVeritas: AI-Generated Video Detection via Perception Pretext Reinforcement Learning](https://arxiv.org/pdf/2602.08828) | Arxiv 2026 | `[V]` | | OpenVid, VFHQ, HDTF, TikTok | Jimeng3.0-Pro, Seedance, Kling2.5-Turbo, Sora2, TikTok, Youtube, etc.  | `Au` | 4K | [MintVid](https://www.modelscope.cn/datasets/EricTanh/MintVid) |
 | AIGVDBench | [Your One-Stop Solution for AI-Generated Video Detection](https://arxiv.org/pdf/2601.11035) | CVPR 2026 | `[V]` | | OpenVid-HD | 31 generation models | `Au` | 440k | [AIGVDBench](https://huggingface.co/datasets/AIGVDBench/AIGVDBench) |
 | HydraFake | [Veritas: Generalizable Deepfake Detection via Pattern-Aware Reasoning](https://arxiv.org/pdf/2508.21048) | ICLR 2026(Oral) | `[I]` | | FFHQ, VFHQ, CelebAHQ, FF++, etc. | GPT-4o, HailuoAI, ICLight, InfiniteYou, etc. | `Au`, `Ex` | 100K | [HydraFake](https://www.modelscope.cn/datasets/EricTanh/HydraFake) |
@@ -115,6 +116,7 @@ A curated collection of the latest research and resources on AI-Generated Image 
 | --- | --- | --- | --- | --- |
 | [VideoVeritas: AI-Generated Video Detection via Perception Pretext Reinforcement Learning](https://arxiv.org/pdf/2602.08828) | Arxiv 2026 | `[V]` | Perception Pretext RL, Fact-based Reasoning, MintVid Dataset | [GitHub](https://github.com/EricTan7/VideoVeritas) |
 | [Veritas: Generalizable deepfake detection via pattern-aware reasoning](https://arxiv.org/pdf/2508.21048) | ICLR 2026(Oral) | `[I]` | Pattern-aware Reasoning, HydraFake Dataset | [Github](https://github.com/EricTan7/Veritas) |
+| [DF-LLaVA: Unlocking MLLMs for Synthetic Image Detection via Knowledge Injection and Conflict-Driven Self-Reflection](https://arxiv.org/pdf/2509.14957) | Arxiv 2026 | `[I]` | Knowledge Injection, Self-Reflection | N/A |
 | [DocShield: Towards AI Document Safety via Evidence-Grounded Agentic Reasoning](https://arxiv.org/pdf/2604.02694) | Arxiv 2026 | `[M]` | Agentic Framework, Document Safety | N/A |
 | [VidGuard-R1: AI-Generated Video Detection and Explanation via Reasoning MLLMs and RL](https://arxiv.org/abs/2510.02282) | ICLR 2026 | `[V]` | Multi-stage RL, Video Detection Dataset | [GitHub](https://github.com/kyoungjunpark/VidGuard-R1) |
 | [FakeXplain: AI-Generated Image Detection via Human-Aligned Grounded Reasoning](https://arxiv.org/pdf/2506.07045) | ICLR 2026 | `[I]` | Grounded Reasoning, Human-annotated Dataset | N/A |

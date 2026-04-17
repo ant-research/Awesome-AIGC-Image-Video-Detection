@@ -1,0 +1,8 @@
+# 忽略所有文件
+*
+
+# 不忽略以下文件
+!.gitignore
+!README.md
+!LICENSE
+!icon.png

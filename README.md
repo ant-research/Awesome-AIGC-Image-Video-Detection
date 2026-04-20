@@ -22,6 +22,7 @@ A curated collection of the latest research and resources on AI-Generated Image 
 ---
 
 ## 🔥 Hot Events
+- [谷歌Gemini生图的暗水印，被印度小哥破解了，成功率90%，Github揽星3k+](https://github.com/aloshdenny/reverse-SynthID)
 - [炸裂！技术力究极恐怖！米哈游蔡浩宇首款AI生成视频大模型LPM1.0曝光！自定义虚拟角色？支持多语言+无限真实+无限时长，实现自由对话、唱歌、表演等效果](https://www.bilibili.com/video/BV12SQwBEEZd/?vd_source=dc916dd94382a611d2fc7ba992618065)
 
 - [⭐️ 刚刚，阿里官方认领神秘「欢乐马」(HappyHorse)，来自ATH郑波团队](https://weibo.com/8214551477/5286126636237040)

@@ -22,6 +22,8 @@ A curated collection of the latest research and resources on AI-Generated Image 
 ---
 
 ## 🔥 Hot Events
+- [因为GPT-image-2，整个互联网都变成了巨大的黑暗森林](https://mp.weixin.qq.com/s/zua1k53RovAOk15Juy6q3g)
+- [ChatGPT 图像 2.0 现已上线! 开启图像生成的新纪元](https://openai.com/zh-Hans-CN/index/introducing-chatgpt-images-2-0/)
 - [谷歌Gemini生图的暗水印，被印度小哥破解了，成功率90%，Github揽星3k+](https://github.com/aloshdenny/reverse-SynthID)
 - [炸裂！技术力究极恐怖！米哈游蔡浩宇首款AI生成视频大模型LPM1.0曝光！自定义虚拟角色？支持多语言+无限真实+无限时长，实现自由对话、唱歌、表演等效果](https://www.bilibili.com/video/BV12SQwBEEZd/?vd_source=dc916dd94382a611d2fc7ba992618065)
 

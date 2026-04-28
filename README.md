@@ -207,6 +207,7 @@ A curated collection of the latest research and resources on AI-Generated Image 
 - **Illuminarty** - [Website](https://app.illuminarty.ai/)
 - **Winston AI** - [Website](https://gowinston.ai/ai-image-detector/)
 - **Is it AI?** - [Website](https://isitai.com/ai-image-detector)
+- **TruthScan** - [Website](https://truthscan.com/zh)
 - **中科睿鉴 (Zhongke Ruijian)** - 微信小程序搜索 **睿鉴AI**
 
 ⬆ [Back to Top](#contents)

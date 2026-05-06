@@ -62,6 +62,7 @@ A curated collection of the latest research and resources on AI-Generated Image 
 
 | Benchmark | Paper | Venue & Year | Modality | Notes | Real Source | Fake Source/Generator | Annotation | Scale | Download |
 | :-------- | :---- | :----------- | :------- | :------ | :---------- | :-------------------- | :--------- | :---- | :------- |
+| AEGIS-Academic | [AEGIS: A Holistic Benchmark for Evaluating Forensic Analysis of AI-Generated Academic Images](https://arxiv.org/pdf/2604.28177) | Arxiv 2026 | `[I]` | Academic Image Forensics | | | `Au` | | [AEGIS](https://bupt-reasoning-lab.github.io/AEGIS/) |
 | SciFigDetect | [SciFigDetect: A Benchmark for AI-Generated Scientific Figure Detection](https://arxiv.org/pdf/2604.08211) | Arxiv 2026 | `[I]` | Scientific Figure Detection | | Nano Banana Pro, GPT-image-1.5 | `Au` | 150K | [SciFigDetect](https://joyce-yoyo.github.io/SciFigDetect/#access) |
 | ActivityForensics | [ActivityForensics: A Comprehensive Benchmark for Localizing Manipulated Activity in Videos](https://arxiv.org/pdf/2604.03819) | CVPR 2026 | `[V]` | Action-level AIGC in videos | | | `Au` | 6K | [ActivityForensics](https://activityforensics.github.io/) |
 | MintVid | [VideoVeritas: AI-Generated Video Detection via Perception Pretext Reinforcement Learning](https://arxiv.org/pdf/2602.08828) | Arxiv 2026 | `[V]` | | OpenVid, VFHQ, HDTF, TikTok | Jimeng3.0-Pro, Seedance, Kling2.5-Turbo, Sora2, TikTok, Youtube, etc.  | `Au` | 4K | [MintVid](https://www.modelscope.cn/datasets/EricTanh/MintVid) |
@@ -154,6 +155,9 @@ A curated collection of the latest research and resources on AI-Generated Image 
 
 | Title | Venue & Year | Modality | Highlights/Keywords | Code |
 | --- | --- | --- | --- | --- |
+| [Automated In-the-Wild Data Collection for Continual AI Generated Image Detection](https://arxiv.org/pdf/2605.02567) | Arxiv 2026 | `[I]` | Continual Learning, Continual Data Collection | [GitHub](https://mever-team.github.io/WildFC/) |
+| [IncreFA: Breaking the Static Wall of Generative Model Attribution](https://arxiv.org/pdf/2604.17736) | Arxiv 2026 | `[I]` | Incremental Learning, Generative Model Attribution | [GitHub](https://github.com/Ant0ny44/IncreFA) |
+| [CMTA: Leveraging Cross-Modal Temporal Artifacts for Generalizable AI-Generated Video Detection](https://arxiv.org/pdf/2605.00630) | Arxiv 2026 | `[V]` | Cross-Modal Temporal Artifacts, Video Detection | N/A |
 | [SAIDO: Generalizable Detection of AI-Generated Images via Scene-Aware and Importance-Guided Dynamic Optimization in Continual Learning](https://arxiv.org/pdf/2512.00539) | CVPR 2026 | `[I]` | Scene-aware optimization, Continual learning | [GitHub](https://github.com/edu-yinzhaoxia/SAIDO-CVPR2026) |
 | [Zooming In on Fakes: A Novel Dataset for Localized AI-Generated Image Detection with Forgery Amplification Approach](https://arxiv.org/abs/2504.11922) | AAAI 2026 | `[I]` | Localized AIGC Detection, Forgery Amplification, Scene-aware Local Forgery | [GitHub](https://github.com/clpbc/BR-Gen) |
 | [Preserving Forgery Artifacts: AI-Generated Video Detection at Native Scale](https://openreview.net/pdf?id=XD43lfRCg6) | ICLR 2026 | `[V]` | Native scale video processing, Massive realistic video dataset, Preserves subtle generation artifacts | N/A |

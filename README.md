@@ -312,3 +312,8 @@ For questions or collaborations, please contact:
 </a>
 
 ---
+
+## Online Detection Tools
+
+- [EyeSift AI Detection](https://www.eyesift.com/) - Free online AI text/image/video/audio detector with detailed per-model benchmarks.
+

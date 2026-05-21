@@ -67,10 +67,11 @@ A curated collection of the latest research and resources on AI-Generated Image 
 | FraudBench | [FraudBench: A Multimodal Benchmark for Detecting AI-Generated Fraudulent Refund Evidence](https://arxiv.org/pdf/2605.08820) | Arxiv 2026 | `[M]` |  Fraudulent Refund Detection (ECommerce) | | | `Au` | | [FraudBench](https://huggingface.co/datasets/TristanYan/FraudBench) |
 | GPT-Image-2 Wild | [GPT-Image-2 in the Wild: A Twitter Dataset of Self-Reported AI-Generated Images from the First Week of Deployment](https://arxiv.org/pdf/2604.25370) | Arxiv 2026 | `[I]` | GPT-Image-2 | Twitter (real images) | GPT-Image-2 | `Au` | 10K | [GPT-Image-2 Wild](https://www.scam.ai/en/research) |
 | Artifact-Bench | [Artifact-Bench: Evaluating MLLMs on Detecting and Assessing the Artifacts of AI-Generated Videos](https://arxiv.org/pdf/2605.18984) | Arxiv 2026 | `[V]` | MLLM Evaluation, Video Artifacts | | | `Au` | | [Artifact-Bench](https://huggingface.co/datasets/DogNeverSleep/Artifact-Bench) |
+| CommGen15 | [PGC: Peak-Guided Calibration for Generalizable AI-Generated Image Detection](https://arxiv.org/pdf/2605.21207) | ICML 2026 | `[I]` | 15 Commercial Generative Models | | 15 commercial generators | `Au` | | [CommGen15](https://modelscope.cn/datasets/xiaoyuzhou68/CommGen15) |
 | AEGIS-Academic | [AEGIS: A Holistic Benchmark for Evaluating Forensic Analysis of AI-Generated Academic Images](https://arxiv.org/pdf/2604.28177) | Arxiv 2026 | `[I]` | Academic Image Forensics | | | `Au` | | [AEGIS](https://bupt-reasoning-lab.github.io/AEGIS/) |
 | SciFigDetect | [SciFigDetect: A Benchmark for AI-Generated Scientific Figure Detection](https://arxiv.org/pdf/2604.08211) | Arxiv 2026 | `[I]` | Scientific Figure Detection | | Nano Banana Pro, GPT-image-1.5 | `Au` | 150K | [SciFigDetect](https://joyce-yoyo.github.io/SciFigDetect/#access) |
 | ActivityForensics | [ActivityForensics: A Comprehensive Benchmark for Localizing Manipulated Activity in Videos](https://arxiv.org/pdf/2604.03819) | CVPR 2026 | `[V]` | Action-level AIGC in videos | | | `Au` | 6K | [ActivityForensics](https://activityforensics.github.io/) |
-| MintVid | [VideoVeritas: AI-Generated Video Detection via Perception Pretext Reinforcement Learning](https://arxiv.org/pdf/2602.08828) | Arxiv 2026 | `[V]` | | OpenVid, VFHQ, HDTF, TikTok | Jimeng3.0-Pro, Seedance, Kling2.5-Turbo, Sora2, TikTok, Youtube, etc.  | `Au` | 4K | [MintVid](https://www.modelscope.cn/datasets/EricTanh/MintVid) |
+| MintVid | [VideoVeritas: AI-Generated Video Detection via Perception Pretext Reinforcement Learning](https://arxiv.org/pdf/2602.08828) | ICML 2026 | `[V]` | | OpenVid, VFHQ, HDTF, TikTok | Jimeng3.0-Pro, Seedance, Kling2.5-Turbo, Sora2, TikTok, Youtube, etc.  | `Au` | 4K | [MintVid](https://www.modelscope.cn/datasets/EricTanh/MintVid) |
 | AIGVDBench | [Your One-Stop Solution for AI-Generated Video Detection](https://arxiv.org/pdf/2601.11035) | CVPR 2026 | `[V]` | | OpenVid-HD | 31 generation models | `Au` | 440k | [AIGVDBench](https://huggingface.co/datasets/AIGVDBench/AIGVDBench) |
 | HydraFake | [Veritas: Generalizable Deepfake Detection via Pattern-Aware Reasoning](https://arxiv.org/pdf/2508.21048) | ICLR 2026(Oral) | `[I]` | | FFHQ, VFHQ, CelebAHQ, FF++, etc. | GPT-4o, HailuoAI, ICLight, InfiniteYou, etc. | `Au`, `Ex` | 100K | [HydraFake](https://www.modelscope.cn/datasets/EricTanh/HydraFake) |
 | BR-Gen | [Zooming In on Fakes: A Novel Dataset for Localized AI-Generated Image Detection with Forgery Amplification Approach](https://arxiv.org/abs/2504.11922) | AAAI 2026 | `[I]` | |  |  | `Au`, `Lo` | 150K | [BR-Gen](https://github.com/clpbc/BR-Gen) |
@@ -129,7 +130,7 @@ A curated collection of the latest research and resources on AI-Generated Image 
 | [GenShield: Unified Detection and Artifact Correction for AI-Generated Images](https://arxiv.org/pdf/2605.16122) | ICML 2026 | `[I]` | Unified MLLM, Detect & Correct Artifacts | [GitHub](https://github.com/zhipeixu/GenShield) |
 | [ReAlign: Generalizable Image Forgery Detection via Reasoning-Aligned Representation](https://arxiv.org/pdf/2605.16080) | Arxiv 2026 | `[I]` | Reasoning-Aligned Representation, Interpretable | N/A |
 | [UniGenDet: A Unified Generative-Discriminative Framework for Co-Evolutionary Image Generation and Generated Image Detection](https://arxiv.org/abs/2604.21904v1) | CVPR 2026 | `[I]` | Unified Model, Co-Evolution (Generation & Detection)  | [GitHub](https://github.com/Zhangyr2022/UniGenDet) |
-| [VideoVeritas: AI-Generated Video Detection via Perception Pretext Reinforcement Learning](https://arxiv.org/pdf/2602.08828) | Arxiv 2026 | `[V]` | Perception Pretext RL, Fact-based Reasoning, MintVid Dataset | [GitHub](https://github.com/EricTan7/VideoVeritas) |
+| [VideoVeritas: AI-Generated Video Detection via Perception Pretext Reinforcement Learning](https://arxiv.org/pdf/2602.08828) | ICML 2026 | `[V]` | Perception Pretext RL, Fact-based Reasoning, MintVid Dataset | [GitHub](https://github.com/EricTan7/VideoVeritas) |
 | [Veritas: Generalizable deepfake detection via pattern-aware reasoning](https://arxiv.org/pdf/2508.21048) | ICLR 2026(Oral) | `[I]` | Pattern-aware Reasoning, HydraFake Dataset | [Github](https://github.com/EricTan7/Veritas) |
 | [DF-LLaVA: Unlocking MLLMs for Synthetic Image Detection via Knowledge Injection and Conflict-Driven Self-Reflection](https://arxiv.org/pdf/2509.14957) | Arxiv 2026 | `[I]` | Knowledge Injection, Self-Reflection | N/A |
 | [DocShield: Towards AI Document Safety via Evidence-Grounded Agentic Reasoning](https://arxiv.org/pdf/2604.02694) | Arxiv 2026 | `[M]` | Agentic Framework, Document Safety | N/A |
@@ -163,6 +164,7 @@ A curated collection of the latest research and resources on AI-Generated Image 
 
 | Title | Venue & Year | Modality | Highlights/Keywords | Code |
 | --- | --- | --- | --- | --- |
+| [PGC: Peak-Guided Calibration for Generalizable AI-Generated Image Detection](https://arxiv.org/pdf/2605.21207) | ICML 2026 | `[I]` | Peak-Guided Calibration, CommGen15 Dataset | [GitHub](https://github.com/xiaoyu6868/PGC) |
 | [Reduce the Artifacts Bias for More Generalizable AI-Generated Image Detection](https://arxiv.org/pdf/2605.14486) | Arxiv 2026 | `[I]` | Bias-free Training | [GitHub](https://github.com/liyih/SEF_AIGC_detection) |
 | [Detecting AI-Generated Videos with Spiking Neural Networks](https://arxiv.org/pdf/2605.05895) | Arxiv 2026 | `[V]` | Spiking Neural Networks, Temporal Artifact | N/A |
 | [Robust ASIC-Based Image Authentication Using Reed-Solomon LSB Watermarking](https://github.com/Agnuxo1/Secure_image_generation_with_ASIC_signature) | Preprint 2026 | `[I]` | ASIC PoW, Hardware-bound Provenance, Reed-Solomon Watermarking | [GitHub](https://github.com/Agnuxo1/Secure_image_generation_with_ASIC_signature) |
@@ -256,7 +258,7 @@ We are honored to collaborate with esteemed researchers and scholars in the fiel
     - [[Homepage]](https://www.cs.sjtu.edu.cn/jiaoshiml/zhangzhuosheng.html)
 
 ### 📝 Academic Publications
-*   **VideoVeritas: AI-Generated Video Detection via Perception Pretext Reinforcement Learning** | *(Submitted), 2026*
+*   **VideoVeritas: AI-Generated Video Detection via Perception Pretext Reinforcement Learning** | *ICML'26, 2026*
     -   *Highlights:* Detected AI-generated videos using perception pretext reinforcement learning to capture temporal inconsistencies.
     -   [[Paper]](https://arxiv.org/pdf/2602.08828) [[Code]](https://github.com/EricTan7/VideoVeritas)
 *   **Locate-Then-Examine: Grounded Region Reasoning Improves Detection of AI-Generated Images** | *CVPR'26, 2026*

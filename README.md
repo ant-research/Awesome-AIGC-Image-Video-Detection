@@ -164,6 +164,7 @@ A curated collection of the latest research and resources on AI-Generated Image 
 
 | Title | Venue & Year | Modality | Highlights/Keywords | Code |
 | --- | --- | --- | --- | --- |
+| [HydraPrompt: An Adaptive and Asymmetric Framework of Vision-Language Models for Synthetic Image Detection](https://arxiv.org/pdf/2605.26421) | Arxiv 2026 | `[I]` | Asymmetric Prompting, Dynamic Decision Boundary | N/A |
 | [VINA: Video as Natural Augmentation: Towards Unified AI-Generated Image and Video Detection](https://arxiv.org/pdf/2605.21977) | Arxiv 2026 | `[M]` | Unified Image/Video Detection, Cross-Modal Contrastive Learning | N/A |
 | [Training-free Detection of Generated Videos via Spatial-Temporal Likelihoods](https://arxiv.org/pdf/2603.15026) | CVPR 2026 | `[V]` | Training-free, Zero-shot, Spatial-Temporal Likelihoods, ComGenVid Dataset | [GitHub](https://github.com/OmerBenHayun/STALL) |
 | [PGC: Peak-Guided Calibration for Generalizable AI-Generated Image Detection](https://arxiv.org/pdf/2605.21207) | ICML 2026 | `[I]` | Peak-Guided Calibration, CommGen15 Dataset | [GitHub](https://github.com/xiaoyu6868/PGC) |
@@ -260,6 +261,9 @@ We are honored to collaborate with esteemed researchers and scholars in the fiel
     - [[Homepage]](https://www.cs.sjtu.edu.cn/jiaoshiml/zhangzhuosheng.html)
 
 ### 📝 Academic Publications
+*   **HydraPrompt: An Adaptive and Asymmetric Framework of Vision-Language Models for Synthetic Image Detection** | *Arxiv, 2026*
+    -   *Highlights:* Proposed an asymmetric prompting framework with sample-adaptive prompts for fake images and a Conditional Supervised Contrastive objective to capture fine-grained forgery clues.
+    -   [[Paper]](https://arxiv.org/pdf/2605.26421)
 *   **VideoVeritas: AI-Generated Video Detection via Perception Pretext Reinforcement Learning** | *ICML'26, 2026*
     -   *Highlights:* Detected AI-generated videos using perception pretext reinforcement learning to capture temporal inconsistencies.
     -   [[Paper]](https://arxiv.org/pdf/2602.08828) [[Code]](https://github.com/EricTan7/VideoVeritas)

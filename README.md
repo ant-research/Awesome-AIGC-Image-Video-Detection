@@ -126,7 +126,7 @@ A curated collection of the latest research and resources on AI-Generated Image 
 
 | Title | Venue & Year | Modality | Highlights/Keywords | Code |
 | --- | --- | --- | --- | --- |
-| [TranX-Adapter: Bridging Artifacts and Semantics within MLLMs for Robust AI-generated Image Detection]([https://arxiv.org/pdf/2605.14091](https://arxiv.org/abs/2602.21716)) | ICML 2026 | `[I]` | Artifact feature and Semantic feature fusion | [GitHub](https://github.com/DreamMr/TranX-Adapter) |
+| [TranX-Adapter: Bridging Artifacts and Semantics within MLLMs for Robust AI-generated Image Detection](https://arxiv.org/abs/2602.21716) | ICML 2026 | `[I]` | Artifact feature and Semantic feature fusion | [GitHub](https://github.com/DreamMr/TranX-Adapter) |
 | [Venus-DeFakerOne: Unified Fake Image Detection & Localization](https://arxiv.org/pdf/2605.14091) | Arxiv 2026 | `[I]` | Unified Detection & Localization, Large-Scale Training | [GitHub](https://github.com/venus-guangjian/Venus-DeFakerOne) |
 | [GenShield: Unified Detection and Artifact Correction for AI-Generated Images](https://arxiv.org/pdf/2605.16122) | ICML 2026 | `[I]` | Unified MLLM, Detect & Correct Artifacts | [GitHub](https://github.com/zhipeixu/GenShield) |
 | [ReAlign: Generalizable Image Forgery Detection via Reasoning-Aligned Representation](https://arxiv.org/pdf/2605.16080) | Arxiv 2026 | `[I]` | Reasoning-Aligned Representation, Interpretable | N/A |

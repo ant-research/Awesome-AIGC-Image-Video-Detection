@@ -64,6 +64,8 @@ A curated collection of the latest research and resources on AI-Generated Image 
 
 | Benchmark | Paper | Venue & Year | Modality | Notes | Real Source | Fake Source/Generator | Annotation | Scale | Download |
 | :-------- | :---- | :----------- | :------- | :------ | :---------- | :-------------------- | :--------- | :---- | :------- |
+| EVID-Bench | [When Seeing Is Not Believing -- A Benchmark for Search-Grounded Video Misinformation Detection](https://arxiv.org/pdf/2606.04098) | Arxiv 2026 | `[V]` | Search-Grounded Verification, Evidence-Dependent Manipulation | | | `Au` | | [EVID-Bench](https://huggingface.co/datasets/Kirito-Lab/EVID-Bench) |
+| CoCoVideo | [CoCoVideo: The High-Quality Commercial-Model-Based Contrastive Benchmark for AI-Generated Video Detection](https://arxiv.org/pdf/2606.00101) | Arxiv 2026 | `[V]` | Commercial AIGC Models, Contrastive Benchmark | | Commercial video generation models | `Au` | | [CoCoVideo](https://github.com/DonoToT/CoCoVideo) |
 | FraudBench | [FraudBench: A Multimodal Benchmark for Detecting AI-Generated Fraudulent Refund Evidence](https://arxiv.org/pdf/2605.08820) | Arxiv 2026 | `[M]` |  Fraudulent Refund Detection (ECommerce) | | | `Au` | | [FraudBench](https://huggingface.co/datasets/TristanYan/FraudBench) |
 | GPT-Image-2 Wild | [GPT-Image-2 in the Wild: A Twitter Dataset of Self-Reported AI-Generated Images from the First Week of Deployment](https://arxiv.org/pdf/2604.25370) | Arxiv 2026 | `[I]` | GPT-Image-2 | Twitter (real images) | GPT-Image-2 | `Au` | 10K | [GPT-Image-2 Wild](https://www.scam.ai/en/research) |
 | Artifact-Bench | [Artifact-Bench: Evaluating MLLMs on Detecting and Assessing the Artifacts of AI-Generated Videos](https://arxiv.org/pdf/2605.18984) | Arxiv 2026 | `[V]` | MLLM Evaluation, Video Artifacts | | | `Au` | | [Artifact-Bench](https://huggingface.co/datasets/DogNeverSleep/Artifact-Bench) |
@@ -126,6 +128,7 @@ A curated collection of the latest research and resources on AI-Generated Image 
 
 | Title | Venue & Year | Modality | Highlights/Keywords | Code |
 | --- | --- | --- | --- | --- |
+| [TranX-Adapter: Bridging Artifacts and Semantics within MLLMs for Robust AI-generated Image Detection](https://arxiv.org/abs/2602.21716) | ICML 2026 | `[I]` | Artifact feature and Semantic feature fusion | [GitHub](https://github.com/DreamMr/TranX-Adapter) |
 | [Venus-DeFakerOne: Unified Fake Image Detection & Localization](https://arxiv.org/pdf/2605.14091) | Arxiv 2026 | `[I]` | Unified Detection & Localization, Large-Scale Training | [GitHub](https://github.com/venus-guangjian/Venus-DeFakerOne) |
 | [GenShield: Unified Detection and Artifact Correction for AI-Generated Images](https://arxiv.org/pdf/2605.16122) | ICML 2026 | `[I]` | Unified MLLM, Detect & Correct Artifacts | [GitHub](https://github.com/zhipeixu/GenShield) |
 | [ReAlign: Generalizable Image Forgery Detection via Reasoning-Aligned Representation](https://arxiv.org/pdf/2605.16080) | Arxiv 2026 | `[I]` | Reasoning-Aligned Representation, Interpretable | N/A |
@@ -164,6 +167,8 @@ A curated collection of the latest research and resources on AI-Generated Image 
 
 | Title | Venue & Year | Modality | Highlights/Keywords | Code |
 | --- | --- | --- | --- | --- |
+| [When Seeing Is Not Believing -- A Benchmark for Search-Grounded Video Misinformation Detection](https://arxiv.org/pdf/2606.04098) | Arxiv 2026 | `[V]` | Search-Grounded Verification, EVID-Bench, Evidence-Dependent Manipulation | N/A |
+| [ReConFuse: Reconstruction-Error Guided Semantic Fusion for AI-Generated Video Detection](https://arxiv.org/pdf/2606.04706) | Arxiv 2026 | `[V]` | Reconstruction Error, Semantic Fusion, Spatial-Temporal Artifacts | N/A |
 | [HydraPrompt: An Adaptive and Asymmetric Framework of Vision-Language Models for Synthetic Image Detection](https://arxiv.org/pdf/2605.26421) | Arxiv 2026 | `[I]` | Asymmetric Prompting, Dynamic Decision Boundary | N/A |
 | [VINA: Video as Natural Augmentation: Towards Unified AI-Generated Image and Video Detection](https://arxiv.org/pdf/2605.21977) | Arxiv 2026 | `[M]` | Unified Image/Video Detection, Cross-Modal Contrastive Learning | N/A |
 | [Training-free Detection of Generated Videos via Spatial-Temporal Likelihoods](https://arxiv.org/pdf/2603.15026) | CVPR 2026 | `[V]` | Training-free, Zero-shot, Spatial-Temporal Likelihoods, ComGenVid Dataset | [GitHub](https://github.com/OmerBenHayun/STALL) |

@@ -64,6 +64,8 @@ A curated collection of the latest research and resources on AI-Generated Image 
 
 | Benchmark | Paper | Venue & Year | Modality | Notes | Real Source | Fake Source/Generator | Annotation | Scale | Download |
 | :-------- | :---- | :----------- | :------- | :------ | :---------- | :-------------------- | :--------- | :---- | :------- |
+| Treasure | [Fleet: Few Shots Lead Effective AI-generated Image Detection](https://arxiv.org/abs/2606.31082) | ICML 2026 | `[I]` | 64 Models, 20 Closed-source Commercial Engines, Few-shot Adaptation | | Diverse architectures & 20 commercial engines | `Au` | 360K | [Treasure](https://github.com/ICTMCG/Fleet) |
+| RealWorldBench | [SSAFE: Simple and Strong AI-Generated Image Detection via Frozen Vision Encoders](https://arxiv.org/abs/2606.08634) | Arxiv 2026 | `[I]` | Modern Camera Photographs, Stock Images, Commercial Generators | | Recent commercial generators | `Au` | | N/A |
 | LADBench | [LADBench: A Benchmark for Logical Fault Detection in Images](https://arxiv.org/pdf/2606.17433) | ICDL 2026 | `[I]` | Logical Anomaly Detection, VLM Evaluation, Common Sense Reasoning | | Synthetic images with logical anomalies | `Au` | 1K+ | [LADBench](https://huggingface.co/datasets/SahasraK/LADBench) |
 | EVID-Bench | [When Seeing Is Not Believing -- A Benchmark for Search-Grounded Video Misinformation Detection](https://arxiv.org/pdf/2606.04098) | Arxiv 2026 | `[V]` | Search-Grounded Verification, Evidence-Dependent Manipulation | | | `Au` | | [EVID-Bench](https://huggingface.co/datasets/Kirito-Lab/EVID-Bench) |
 | CoCoVideo | [CoCoVideo: The High-Quality Commercial-Model-Based Contrastive Benchmark for AI-Generated Video Detection](https://arxiv.org/pdf/2606.00101) | Arxiv 2026 | `[V]` | Commercial AIGC Models, Contrastive Benchmark | | Commercial video generation models | `Au` | | [CoCoVideo](https://github.com/DonoToT/CoCoVideo) |
@@ -130,6 +132,7 @@ A curated collection of the latest research and resources on AI-Generated Image 
 
 | Title | Venue & Year | Modality | Highlights/Keywords | Code |
 | --- | --- | --- | --- | --- |
+| [Detecting AI-Generated Video: A Vision-Language Dual-View Survey](https://arxiv.org/abs/2607.10787) | ACL 2026 Findings | `[V]` | [Survey] Vision-Language Dual-View Taxonomy, Factual Fidelity Verification, Cross-modal Consistency | N/A |
 | [TranX-Adapter: Bridging Artifacts and Semantics within MLLMs for Robust AI-generated Image Detection](https://arxiv.org/abs/2602.21716) | ICML 2026 | `[I]` | Artifact feature and Semantic feature fusion | [GitHub](https://github.com/DreamMr/TranX-Adapter) |
 | [Venus-DeFakerOne: Unified Fake Image Detection & Localization](https://arxiv.org/pdf/2605.14091) | Arxiv 2026 | `[I]` | Unified Detection & Localization, Large-Scale Training | [GitHub](https://github.com/venus-guangjian/Venus-DeFakerOne) |
 | [GenShield: Unified Detection and Artifact Correction for AI-Generated Images](https://arxiv.org/pdf/2605.16122) | ICML 2026 | `[I]` | Unified MLLM, Detect & Correct Artifacts | [GitHub](https://github.com/zhipeixu/GenShield) |
@@ -169,9 +172,14 @@ A curated collection of the latest research and resources on AI-Generated Image 
 
 | Title | Venue & Year | Modality | Highlights/Keywords | Code |
 | --- | --- | --- | --- | --- |
+| [SPLIT: Training-Free AI-Generated and Partially Edited Video Detection via Spatial Patch-Level Incoherence and Temporal Roughness](https://arxiv.org/abs/2607.02886) | ECCV 2026 | `[V]` | Training-free, Patch-level Incoherence, Temporal Roughness, Ultra-low FPR | [GitHub](https://github.com/mldljyh/SPLIT) |
+| [Dataset Biases and Shortcut Learning in Motion-Based AI-Generated Video Detection](https://arxiv.org/abs/2607.00948) | Arxiv 2026 | `[V]` | Motion Bias Analysis, Preprocessing/Sampling Bias, Frequency-based Comparison | N/A |
+| [G2VD: Generalizable AI-Generated Video Detection via Counterfactual Intervention and Causal Disentanglement](https://arxiv.org/abs/2607.04607) | Arxiv 2026 | `[V]` | Counterfactual Intervention, Causal Disentanglement, Cross-domain Generalization | [GitHub](https://github.com/dumeng98/G2VD) |
+| [Fleet: Few Shots Lead Effective AI-generated Image Detection](https://arxiv.org/abs/2606.31082) | ICML 2026 | `[I]` | Few-shot Adaptation, Routing Correction, Treasure Benchmark | [GitHub](https://github.com/ICTMCG/Fleet) |
+| [SSAFE: Simple and Strong AI-Generated Image Detection via Frozen Vision Encoders](https://arxiv.org/abs/2606.08634) | Arxiv 2026 | `[I]` | Frozen Vision Encoders, Linear Classifier, RealWorldBench | N/A |
 | [When Seeing Is Not Believing -- A Benchmark for Search-Grounded Video Misinformation Detection](https://arxiv.org/pdf/2606.04098) | Arxiv 2026 | `[V]` | Search-Grounded Verification, EVID-Bench, Evidence-Dependent Manipulation | N/A |
 | [ReConFuse: Reconstruction-Error Guided Semantic Fusion for AI-Generated Video Detection](https://arxiv.org/pdf/2606.04706) | Arxiv 2026 | `[V]` | Reconstruction Error, Semantic Fusion, Spatial-Temporal Artifacts | N/A |
-| [HydraPrompt: An Adaptive and Asymmetric Framework of Vision-Language Models for Synthetic Image Detection](https://arxiv.org/pdf/2605.26421) | Arxiv 2026 | `[I]` | Asymmetric Prompting, Dynamic Decision Boundary | N/A |
+| [HydraPrompt: An Adaptive and Asymmetric Framework of Vision-Language Models for Synthetic Image Detection](https://arxiv.org/pdf/2605.26421) | ACM MM 2026 | `[I]` | Asymmetric Prompting, Dynamic Decision Boundary | N/A |
 | [VINA: Video as Natural Augmentation: Towards Unified AI-Generated Image and Video Detection](https://arxiv.org/pdf/2605.21977) | Arxiv 2026 | `[M]` | Unified Image/Video Detection, Cross-Modal Contrastive Learning | N/A |
 | [Training-free Detection of Generated Videos via Spatial-Temporal Likelihoods](https://arxiv.org/pdf/2603.15026) | CVPR 2026 | `[V]` | Training-free, Zero-shot, Spatial-Temporal Likelihoods, ComGenVid Dataset | [GitHub](https://github.com/OmerBenHayun/STALL) |
 | [PGC: Peak-Guided Calibration for Generalizable AI-Generated Image Detection](https://arxiv.org/pdf/2605.21207) | ICML 2026 | `[I]` | Peak-Guided Calibration, CommGen15 Dataset | [GitHub](https://github.com/xiaoyu6868/PGC) |
@@ -268,9 +276,6 @@ We are honored to collaborate with esteemed researchers and scholars in the fiel
     - [[Homepage]](https://www.cs.sjtu.edu.cn/jiaoshiml/zhangzhuosheng.html)
 
 ### 📝 Academic Publications
-*   **HydraPrompt: An Adaptive and Asymmetric Framework of Vision-Language Models for Synthetic Image Detection** | *Arxiv, 2026*
-    -   *Highlights:* Proposed an asymmetric prompting framework with sample-adaptive prompts for fake images and a Conditional Supervised Contrastive objective to capture fine-grained forgery clues.
-    -   [[Paper]](https://arxiv.org/pdf/2605.26421)
 *   **VideoVeritas: AI-Generated Video Detection via Perception Pretext Reinforcement Learning** | *ICML'26, 2026*
     -   *Highlights:* Detected AI-generated videos using perception pretext reinforcement learning to capture temporal inconsistencies.
     -   [[Paper]](https://arxiv.org/pdf/2602.08828) [[Code]](https://github.com/EricTan7/VideoVeritas)

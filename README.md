@@ -23,37 +23,37 @@ A curated collection of the latest research and resources on AI-Generated Image 
 
 ## 🔥 Hot Events
 
-- [融资密集落地，AI视频大模型竞速商业化](http://www.chinasei.com.cn/dtxw/202608/t20260807_88958.html)
+- [鹿晗音乐节生图被微博AI误判为“AI生成”：平台检测误判引发热议](https://k.sina.com.cn/article_7879776328_1d5abd84806802529s.html?from=ent)
+
+- [周星驰团队多维度系统应对AI克隆侵权事件](https://ent.sina.cn/2026-07-19/detail-iniihzch1188910.d.html?vt=4)
+
+- [微短剧行业观察：短剧流量狂欢背后，AI内容失范与版权维权破局](https://news.cnr.cn/dj/20260730/t20260730_527737301.shtml)
+
+- [马来西亚启动调查：Grok被指生成性侵类Deepfake内容](https://beta.hyper.ai/cn/stories/74ed19530eac52b5bb893618f65e95dc)
+
+- [公安部：多措并举应对“AI换脸”“深度伪造”等新型技术犯罪](https://www.stdaily.com/web/gdxw/2026-07/24/content_553161.html)
+
+- [今日辟谣（2026年8月13日）：罗某利用AI炮制虚假视频吸粉引流，被依法处罚](https://www.gzwxb.gov.cn/context/contextId/216661)
+
+- [AI造谣，该当何罪（天府新视界）](https://focus.scol.com.cn/zgsz/202607/83282192.html)
+
+- [自然灾害频传，中国面临新挑战——AI伪造视频（BBC中文）](https://www.bbc.com/zhongwen/articles/crmrk3p3e3wo/simp)
+
+- [新一代多模态生成模型MiniMax H3发布并开源，0.8元/秒（新京报）](https://www.bjnews.com.cn/detail/1785474644129260.html)
 
 - [告别“脸崩”时代！AI视频生成模型竞赛加速，谁在为技术买单](https://www.tfcaijing.com/article/page/6b4a4542345a552b43627150477338572f77424b70773d3d)
+
+- [融资密集落地，AI视频大模型竞速商业化](http://www.chinasei.com.cn/dtxw/202608/t20260807_88958.html)
 
 - [2026年8月AI视频模型排行榜：图生视频工具该怎么选？](https://www.pixmax.cn/news/post-58.html)
 
 - [国内外知名大模型及应用汇总（2026/08/14）](https://zhuanlan.zhihu.com/p/670574382)
-
-- [新一代多模态生成模型MiniMax H3发布并开源，0.8元/秒（新京报）](https://www.bjnews.com.cn/detail/1785474644129260.html)
 
 - [Google给AI水印松绑：允许移除可见水印，但保留不可见SynthID水印与C2PA元数据](https://www.tmtpost.com/agent/ai-article/19884)
 
 - [1000亿张图像被打了水印：SynthID如何变成AI内容治理的隐形基建](https://www.v2code.ai/post/synthid-100b-images-ai-watermark-infrastructure)
 
 - [7月“AI魔改”视频治理成果公布：清理违规视频13300余条、处置违规账号30余个](https://xinwen.bjd.com.cn/content/s6a71a086e4b03fa51a827a09.html)
-
-- [今日辟谣（2026年8月13日）：罗某利用AI炮制虚假视频吸粉引流，被依法处罚](https://www.gzwxb.gov.cn/context/contextId/216661)
-
-- [AI造谣，该当何罪（天府新视界）](https://focus.scol.com.cn/zgsz/202607/83282192.html)
-
-- [公安部：多措并举应对“AI换脸”“深度伪造”等新型技术犯罪](https://www.stdaily.com/web/gdxw/2026-07/24/content_553161.html)
-
-- [微短剧行业观察：短剧流量狂欢背后，AI内容失范与版权维权破局](https://news.cnr.cn/dj/20260730/t20260730_527737301.shtml)
-
-- [周星驰团队多维度系统应对AI克隆侵权事件](https://ent.sina.cn/2026-07-19/detail-iniihzch1188910.d.html?vt=4)
-
-- [马来西亚启动调查：Grok被指生成性侵类Deepfake内容](https://beta.hyper.ai/cn/stories/74ed19530eac52b5bb893618f65e95dc)
-
-- [自然灾害频传，中国面临新挑战——AI伪造视频（BBC中文）](https://www.bbc.com/zhongwen/articles/crmrk3p3e3wo/simp)
-
-- [鹿晗音乐节生图被微博AI误判为“AI生成”：平台检测误判引发热议](https://k.sina.com.cn/article_7879776328_1d5abd84806802529s.html?from=ent)
 
 - [欧盟宣布扩大实施《人工智能法》：8月2日起深度伪造等AI生成内容须明确标注](https://www.news.cn/world/20260731/8fa97d0aefa2467fbfa39096050c1378/c.html)
 

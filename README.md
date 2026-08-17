@@ -23,35 +23,53 @@ A curated collection of the latest research and resources on AI-Generated Image 
 
 ## 🔥 Hot Events
 
-- [一颗榴莲引发的1600公里追凶：谁在滥用“仅退款”？](https://h5.ifeng.com/c/vivo/v002Db8HLomgpDUJcI-_--LPT1YGzjdQXYG2RSCG3E68FhaZ0__?isNews=1&showComments=0)
-- [因为GPT-image-2，整个互联网都变成了巨大的黑暗森林](https://mp.weixin.qq.com/s/zua1k53RovAOk15Juy6q3g)
-- [ChatGPT 图像 2.0 现已上线! 开启图像生成的新纪元](https://openai.com/zh-Hans-CN/index/introducing-chatgpt-images-2-0/)
-- [谷歌Gemini生图的暗水印，被印度小哥破解了，成功率90%，Github揽星3k+](https://github.com/aloshdenny/reverse-SynthID)
-- [炸裂！技术力究极恐怖！米哈游蔡浩宇首款AI生成视频大模型LPM1.0曝光！自定义虚拟角色？支持多语言+无限真实+无限时长，实现自由对话、唱歌、表演等效果](https://www.bilibili.com/video/BV12SQwBEEZd/?vd_source=dc916dd94382a611d2fc7ba992618065)
+- [一镜成片，随心参考｜字节跳动 Seedance 2.5 正式发布](https://seed.bytedance.com/zh/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5)
 
-- [⭐️ 刚刚，阿里官方认领神秘「欢乐马」(HappyHorse)，来自ATH郑波团队](https://weibo.com/8214551477/5286126636237040)
+- [Seedance 2.5发布：视频生成模型向产业生产力工具演进（科技日报）](https://www.stdaily.com/web/gdxw/2026-08/03/content_558280.html)
 
-- [就AI换脸合成、影视素材魔改等，中广联演员委员会发声明](https://m.thepaper.cn/newsDetail_forward_32880368)
+- [融资密集落地，AI视频大模型竞速商业化](http://www.chinasei.com.cn/dtxw/202608/t20260807_88958.html)
 
-- [Is the new video of Netanyahu AI-generated?](https://x.com/ripplexrpie/status/2033212021647270063?s=46)
+- [告别“脸崩”时代！AI视频生成模型竞赛加速，谁在为技术买单](https://www.tfcaijing.com/article/page/6b4a4542345a552b43627150477338572f77424b70773d3d)
 
-- [Netanyahu, disappearing ring!](https://x.com/jacksonhinklle/status/2033543544124633345?s=46)
+- [2026年8月AI视频模型排行榜：图生视频工具该怎么选？](https://www.pixmax.cn/news/post-58.html)
 
-- [为什么内塔尼亚胡没能成功证明自己没死？](https://www.bilibili.com/video/BV1ygwXzVEns?buvid=ZF4153F466FA276C4159AA3E46125C0C024C&from_spmid=tm.recommend.0.0&is_story_h5=false&mid=enL%2FASv4UwiQw63hS3bfYw%3D%3D&plat_id=114&share_from=ugc&share_medium=iphone&share_plat=ios&share_session_id=83DD9880-F093-4A78-8337-FAE59EB0F9A0&share_source=COPY&share_tag=s_i&timestamp=1773807790&unique_k=FyMOQcn&up_id=346563107&vd_source=516db97bb15e7a9ee84b3097ee2ff160)
+- [2026年最佳AI图像和视频生成器：40多个模型的全面对比](https://www.switas.com/zh-CN/articles/the-best-ai-image-and-video-generators-of-2026-a-massive-comparison-of-40-models)
 
-- [A photo of Iran’s bombed schoolgirl graveyard went viral. Why did AI say it wasn’t real?](https://www.theguardian.com/global-development/2026/mar/17/atrocity-ai-slop-verify-facts-iran-minab-graves)
+- [Google给AI水印松绑：允许移除可见水印，但保留不可见SynthID水印与C2PA元数据](https://www.tmtpost.com/agent/ai-article/19884)
 
-- [How AI Content Detection is Being Weaponized in the Iran War](https://www.techpolicy.press/how-ai-content-detection-is-being-weaponized-in-the-iran-war/)
+- [OpenAI：推进内容溯源，构建更安全、更透明的AI生态](https://openai.com/zh-Hans-CN/index/advancing-content-provenance/)
 
-- [改变视频行业的AI，快来了(但有点恐怖) - Bilibili 影视飓风](https://www.bilibili.com/video/BV1A3cczZEf6/?spm_id_from=333.1387.homepage.video_card.click&vd_source=516db97bb15e7a9ee84b3097ee2ff160)
+- [1000亿张图像被打了水印：SynthID如何变成AI内容治理的隐形基建](https://www.v2code.ai/post/synthid-100b-images-ai-watermark-infrastructure)
 
-- [勘误致歉：今日发布的库里采访资讯为AI杜撰生成](https://m.hupu.com/bbs-share/637055192.html?share=share&euid=7vQPQEPpuWG8GWXVjyxIRtUcrudfXWKbBiuRjnUu2JY=&cid=160373438)
+- [7月“AI魔改”视频治理成果公布：清理违规视频13300余条、处置违规账号30余个](https://xinwen.bjd.com.cn/content/s6a71a086e4b03fa51a827a09.html)
 
-- [聊聊关于Seedance 2.0的风波 - 数字生命卡兹克](https://mp.weixin.qq.com/s/FzHUB8uSQllJviMu6SLMew)
+- [今日辟谣（2026年8月13日）：罗某利用AI炮制虚假视频吸粉引流，被依法处罚](https://www.gzwxb.gov.cn/context/contextId/216661)
 
-- [Trump unveils his vision for 'Gaza Riviera' with AI video featuring belly dancers and luxury yachts](https://www.youtube.com/shorts/ZIwqq3RDuc0)
+- [微短剧行业观察：短剧流量狂欢背后，AI内容失范与版权维权破局](https://news.cnr.cn/dj/20260730/t20260730_527737301.shtml)
 
-- [电商上演「魔法对轰」：卖家用AI假图骗下单，买家拿AI烂水果骗退款](https://36kr.com/p/3409700220685704)
+- [周星驰团队多维度系统应对AI克隆侵权事件](https://ent.sina.cn/2026-07-19/detail-iniihzch1188910.d.html?vt=4)
+
+- [新一代多模态生成模型MiniMax H3发布并开源，0.8元/秒（新京报）](https://www.bjnews.com.cn/detail/1785474644129260.html)
+
+- [视频生成模型正在争夺什么？（36氪）](https://m.36kr.com/p/3930236944596099)
+
+- [首个登顶全球视频模型榜首的开源模型：MiniMax H3模型报告解读](https://zhuanlan.zhihu.com/p/2070615871941301596)
+
+- [公安部：多措并举应对“AI换脸”“深度伪造”等新型技术犯罪](https://www.stdaily.com/web/gdxw/2026-07/24/content_553161.html)
+
+- [马来西亚启动调查：Grok被指生成性侵类Deepfake内容](https://beta.hyper.ai/cn/stories/74ed19530eac52b5bb893618f65e95dc)
+
+- [自然灾害频传，中国面临新挑战——AI伪造视频（BBC中文）](https://www.bbc.com/zhongwen/articles/crmrk3p3e3wo/simp)
+
+- [蚂蚁安全实验室获CVPR26 AIGC图像检测挑战赛冠军](https://mp.weixin.qq.com/s/xlvP_rkyaLD0Pfp4g3Jwdw)
+
+- [蚂蚁安全实验室夺冠全球人脸防伪检测挑战赛](https://mp.weixin.qq.com/s/ZZMep9ETEavC99N-GyfRBQ)
+
+- [国家网信办印发《人工智能生成合成内容标识办法》](https://www.cac.gov.cn/2025-03/14/c_1743654684782215.htm)
+
+- [网信部门依法查处“剪映”“猫箱”“即梦AI”等生成合成内容标识违法问题网站平台](https://www.cac.gov.cn/2026-04/28/c_1779119736411711.htm)
+
+- [国家网信办印发《人工智能拟人化互动服务管理暂行办法》](https://www.cac.gov.cn/2026-04/10/c_1777558395078289.htm)
 
 ---
 

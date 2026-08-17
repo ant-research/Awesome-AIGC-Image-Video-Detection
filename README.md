@@ -398,11 +398,13 @@ For questions or collaborations, please contact:
 
 ### Star History
 
-<a href="https://www.star-history.com/?repos=ant-research%2FAwesome-AIGC-Image-Video-Detection&type=date&logscale=&legend=top-left">
+## Star History
+
+<a href="https://www.star-history.com/?repos=ant-research%2FAwesome-AIGC-Image-Video-Detection&type=date&legend=top-left">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=ant-research/Awesome-AIGC-Image-Video-Detection&type=date&theme=dark&legend=top-left" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=ant-research/Awesome-AIGC-Image-Video-Detection&type=date&legend=top-left" />
-   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=ant-research/Awesome-AIGC-Image-Video-Detection&type=date&legend=top-left" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=ant-research/Awesome-AIGC-Image-Video-Detection&type=date&theme=dark&legend=top-left&sealed_token=2BuClRf-coPk9YPAPXeYMlqzc-HCXTdEaMC-VD2C4XBrGanda3wxhpYiBvSiWAh2qbRHjtpLc-p75i-YrEok1aHHI5a3kmTkccBPgbMRZYvlaW1l-kAwrQ" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=ant-research/Awesome-AIGC-Image-Video-Detection&type=date&legend=top-left&sealed_token=2BuClRf-coPk9YPAPXeYMlqzc-HCXTdEaMC-VD2C4XBrGanda3wxhpYiBvSiWAh2qbRHjtpLc-p75i-YrEok1aHHI5a3kmTkccBPgbMRZYvlaW1l-kAwrQ" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=ant-research/Awesome-AIGC-Image-Video-Detection&type=date&legend=top-left&sealed_token=2BuClRf-coPk9YPAPXeYMlqzc-HCXTdEaMC-VD2C4XBrGanda3wxhpYiBvSiWAh2qbRHjtpLc-p75i-YrEok1aHHI5a3kmTkccBPgbMRZYvlaW1l-kAwrQ" />
  </picture>
 </a>
 

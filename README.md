@@ -347,6 +347,7 @@ A curated collection of the latest research and resources on AI-Generated Image 
 - **Is it AI?** - [Website](https://isitai.com/ai-image-detector)
 - **TruthScan** - [Website](https://truthscan.com/zh)
 - **中科睿鉴 (Zhongke Ruijian)** - 微信小程序搜索 **睿鉴AI**
+- **isthisaigenerated.app** - [Website](https://isthisaigenerated.app/site/) - Free, no-account browser checker for images, text, documents and sampled video; warning-only output with published recall, false-positive rate and citations, plus a public accuracy page
 
 ⬆ [Back to Top](#contents)
 

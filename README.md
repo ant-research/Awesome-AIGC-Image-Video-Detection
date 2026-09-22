@@ -340,6 +340,7 @@ A curated collection of the latest research and resources on AI-Generated Image 
 - **SiliconSignature** - [GitHub](https://github.com/Agnuxo1/Secure_image_generation_with_ASIC_signature) - Hardware-bound image authentication using ASIC PoW nonces for unforgeable provenance certification
 - **EyeSift** - [Website](https://www.eyesift.com/) - Free online AI text/image/video/audio detector with detailed per-model benchmarks
 - **Hive Moderation** - [Website](https://thehive.ai/demos/ai-generated-content-detection)
+- **Vynly** - [Website](https://vynly.co/check) - Free no-signup image detector that reads embedded provenance (C2PA manifests, SynthID-style XMP/IPTC tags, EXIF/XMP generator signatures, PNG parameter chunks) plus a vision pass for visible watermarks
 - **Tencent Zhuque AI Detection Assistant** - [Website](https://matrix.tencent.com/ai-detect/ai_gen_txt)
 - **AI or Not** - [Website](https://www.aiornot.com/)
 - **Illuminarty** - [Website](https://app.illuminarty.ai/)

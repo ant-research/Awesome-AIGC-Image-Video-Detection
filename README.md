@@ -346,6 +346,7 @@ A curated collection of the latest research and resources on AI-Generated Image 
 - **Winston AI** - [Website](https://gowinston.ai/ai-image-detector/)
 - **Is it AI?** - [Website](https://isitai.com/ai-image-detector)
 - **TruthScan** - [Website](https://truthscan.com/zh)
+- **Sealed Rose** - [Website](https://sealedrose.com/verify-video) | [GitHub](https://github.com/derekgallardo01/sealedrose-sdk) - Enterprise AI media forensics platform and open-source SDK for temporal optical flow and neural deepfake video, image, and audio verification
 - **中科睿鉴 (Zhongke Ruijian)** - 微信小程序搜索 **睿鉴AI**
 
 ⬆ [Back to Top](#contents)

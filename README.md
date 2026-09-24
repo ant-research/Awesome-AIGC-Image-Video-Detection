@@ -347,6 +347,7 @@ A curated collection of the latest research and resources on AI-Generated Image 
 - **Is it AI?** - [Website](https://isitai.com/ai-image-detector)
 - **TruthScan** - [Website](https://truthscan.com/zh)
 - **中科睿鉴 (Zhongke Ruijian)** - 微信小程序搜索 **睿鉴AI**
+- **AI Slop Detector** - [Website](https://aislopdetector.net/) - Free online AI slop detector for text and images: paste text or upload a picture and get a verdict, with everything running in the browser and nothing uploaded
 
 ⬆ [Back to Top](#contents)
 

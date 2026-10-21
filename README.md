@@ -343,6 +343,7 @@ A curated collection of the latest research and resources on AI-Generated Image 
 
 ## Practical Detection Tools
 
+- **AI Image Detection** - [Website](https://aiimagedetection.app/) - Browser-first C2PA Content Credentials inspection followed by model detection; public 100-image evaluation reports 98 correct, 1 unsure and 1 wrong, with 0/50 real photos flagged as AI
 - **美亚鉴真** - 微信小程序搜索 **美亚鉴真**
 - **SiliconSignature** - [GitHub](https://github.com/Agnuxo1/Secure_image_generation_with_ASIC_signature) - Hardware-bound image authentication using ASIC PoW nonces for unforgeable provenance certification
 - **EyeSift** - [Website](https://www.eyesift.com/) - Free online AI text/image/video/audio detector with detailed per-model benchmarks

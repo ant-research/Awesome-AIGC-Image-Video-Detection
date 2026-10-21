@@ -353,6 +353,7 @@ A curated collection of the latest research and resources on AI-Generated Image 
 - **Winston AI** - [Website](https://gowinston.ai/ai-image-detector/)
 - **Is it AI?** - [Website](https://isitai.com/ai-image-detector)
 - **TruthScan** - [Website](https://truthscan.com/zh)
+- **isGenAI** - [Website](https://isgenai.com/) - Free provenance checker: reads C2PA Content Credentials (signature validation and signer trust reported separately), IPTC AI labels and saved generation prompts in images and pages
 - **中科睿鉴 (Zhongke Ruijian)** - 微信小程序搜索 **睿鉴AI**
 
 ⬆ [Back to Top](#contents)

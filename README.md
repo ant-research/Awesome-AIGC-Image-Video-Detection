@@ -344,6 +344,7 @@ A curated collection of the latest research and resources on AI-Generated Image 
 ## Practical Detection Tools
 
 - **美亚鉴真** - 微信小程序搜索 **美亚鉴真**
+- **SynthScope** - [GitHub](https://github.com/SMSD75/SynthScope) · [Demo](https://huggingface.co/spaces/SMSD75/SynthScope) - Open-source toolkit and benchmark for AI-generated image and video detection: 17 detectors (e.g. CuRe, SPAI, Co-Spy, AIDE, NPR, D3, STALL) behind one interface, each checked against its paper's results, 27 benchmarks that download themselves, and a free web demo
 - **SiliconSignature** - [GitHub](https://github.com/Agnuxo1/Secure_image_generation_with_ASIC_signature) - Hardware-bound image authentication using ASIC PoW nonces for unforgeable provenance certification
 - **EyeSift** - [Website](https://www.eyesift.com/) - Free online AI text/image/video/audio detector with detailed per-model benchmarks
 - **Hive Moderation** - [Website](https://thehive.ai/demos/ai-generated-content-detection)

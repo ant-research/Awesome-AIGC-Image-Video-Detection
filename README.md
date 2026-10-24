@@ -354,6 +354,7 @@ A curated collection of the latest research and resources on AI-Generated Image 
 - **Is it AI?** - [Website](https://isitai.com/ai-image-detector)
 - **TruthScan** - [Website](https://truthscan.com/zh)
 - **中科睿鉴 (Zhongke Ruijian)** - 微信小程序搜索 **睿鉴AI**
+- **Check AI Free** - [Website](https://checkaifree.com/) - Free AI image checker: reads generator metadata, camera fields and C2PA manifest presence first, then an optional model check; C2PA signatures are not validated ([MCP server](https://github.com/hyai-dev/checkaifree-mcp))
 
 ⬆ [Back to Top](#contents)
 

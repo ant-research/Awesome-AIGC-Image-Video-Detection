@@ -29,7 +29,11 @@ A curated collection of the latest research and resources on AI-Generated Image 
 
 ## 🔥 Hot Events
 
-> Last updated: 2026-10-12
+> Last updated: 2026-11-02
+
+- [Genie 4: A New Generation of World Simulation](https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/)
+
+- [快手可灵AI Kling 4.0正式全量上线，API服务即将开放](https://ir.kuaishou.com/zh-hans/news-releases/news-release-details/kelingaixinyidaimoxingkling-40zhengshishangxian)
 
 - [Apple Reference Image: A New Approach for Verified Photography](https://security.apple.com/blog/apple-reference-image/)
 
@@ -38,44 +42,35 @@ A curated collection of the latest research and resources on AI-Generated Image 
 - [太卷了！改变视频行业的AI又迭代了什么？——影视飓风](https://www.bilibili.com/video/BV1teuc63E6D/?spm_id_from=333.1387.upload.video_card.click&vd_source=dc916dd94382a611d2fc7ba992618065)
 
 
+- [湖南网警通报6起网络造谣案例：AI造假、虚构打架](https://hn.rednet.cn/content/646054/75/16429362.html)
 
-- [Move over, pervert glasses – the latest toxic trend is 'robogroping'](https://www.theguardian.com/commentisfree/2026/oct/17/smartglasses-robogroping-toxic-trends)
+- [It Sure Seems Like Nissan Released AI-Generated Slop Of Its Latest Concept Car](https://www.theautopian.com/it-sure-seems-like-nissan-released-ai-generated-slop-of-its-latest-concept-car/)
 
-- [Stanford apologizes for using AI to alter student's race, gender in photo](https://edsource.org/updates/stanford-apologizes-for-using-ai-to-alter-a-students-race-gender-in-photo)
+- [抖音公告：加大打击力度！治理恶意营销号滥用AI](https://www.21jingji.com/article/20261029/herald/31a3ba80b944deff6a0bd1c8d680b451.html)
 
-- [快手可灵AI Kling 4.0正式全量上线，API服务即将开放](https://ir.kuaishou.com/zh-hans/news-releases/news-release-details/kelingaixinyidaimoxingkling-40zhengshishangxian)
+- [Report Fraud warning after £24.3 million stolen through AI-enabled investment endorsement schemes](https://www.cityoflondon.police.uk/news/city-of-london/news/2026/october/report-fraud-warning-after-24.3-million-stolen-through-ai-enabled-investment-endorsement-schemes/)
 
-- [OpenAI, Meta caution US judiciary about risk of 'deepfake' evidence](https://www.reuters.com/legal/government/openai-meta-caution-us-judiciary-about-risk-deepfake-evidence-2026-10-15/)
+- [新闻周刊丨AI换脸明星带货泛滥，维权难点到底在哪？](https://news.cctv.com/2026/10/25/ARTIGlfSeulXszyO6KXfdod3261025.shtml)
 
-- [AI冒充刘欢妻子带货，AI明星带货的底线到底在哪？](https://m.36kr.com/p/4019757595235973)
+- [Major AI Models Are More Willing than Ever to Create Fake Election Images](https://www.brennancenter.org/our-work/analysis-opinion/major-ai-models-are-more-willing-ever-create-fake-election-images)
 
-- [Nikon revokes first prize in Small World in Motion video competition over AI use](https://www.cnn.com/2026/10/12/science/nikon-revokes-small-world-prize-intl-scli)
+- [Bots, deepfakes and surveillance: Israel's election goes to war online](https://www.aljazeera.com/news/2026/10/25/bots-deepfakes-and-surveillance-israels-election-goes-to-war-online)
 
-- [AI deepfake ads grow more popular in US midterm campaigns, blurring truth](https://www.aljazeera.com/economy/2026/10/9/ai-deepfake-ads-grow-more-popular-in-us-midterm-campaigns-blurring-truth)
+- [Opposition deepfake video of Spanish PM's wife sparks outrage before election](https://www.theguardian.com/world/2026/oct/23/opposition-deepfake-video-spain-election)
 
-- [Denmark plans ban on sharing AI deepfakes without consent](https://www.reuters.com/world/denmark-plans-ban-sharing-ai-deepfakes-without-consent-2026-10-08/)
+- [Teacher Wins Damages Against Former Student Over Deepfake Nude Edits](https://news.sbs.co.kr/english/article.do?news_id=N1008807755)
 
 - [博流量！溆浦女子用AI合成"被打"视频，被依法行政拘留](https://m.voc.com.cn/xhn/news/202610/33994668.html)
 
+- [Move over, pervert glasses – the latest toxic trend is 'robogroping'](https://www.theguardian.com/commentisfree/2026/oct/17/smartglasses-robogroping-toxic-trends)
+
+- [OpenAI, Meta caution US judiciary about risk of 'deepfake' evidence](https://www.reuters.com/legal/government/openai-meta-caution-us-judiciary-about-risk-deepfake-evidence-2026-10-15/)
+
 - [白宫官方X账号发布AI篡改图推广Trump TV，AFP检出GPT Image 2生成](https://factcheck.afp.com/doc.afp.com.D2EW8WE)
 
-- [Google's new image model Nano Banana 2.1 generates better images for less money](https://the-decoder.com/googles-new-image-model-nano-banana-2-1-generates-better-images-for-less-money/)
+- [Nikon revokes first prize in Small World in Motion video competition over AI use](https://www.cnn.com/2026/10/12/science/nikon-revokes-small-world-prize-intl-scli)
 
-- [Manslaughter sentence tossed over AI-generated video of slain victim](https://abcnews.com/US/manslaughter-sentence-tossed-ai-generated-video-slain-victim/story?id=137045055)
-
-- [A fake image of a Georgia mayor kissing a person went viral. Can US voters trust everything they see?](https://www.theguardian.com/technology/2026/sep/30/ai-deepfakes-politicans)
-
-- [This light-powered AI can spot deepfakes with nearly 98% accuracy](https://www.sciencedaily.com/releases/2026/09/260929053534.htm)
-
-- [Failed by the police, Grok deepfake victims are seeking justice themselves](https://www.thebureauinvestigates.com/stories/2026-09-29/grok-deepfakes-police-justice)
-
-- [四川道孚"棕熊现身街头"图片系AI合成，两人被处罚](https://m.huanqiu.com/article/4TMVJi6k8Yl)
-
-- [肖战回应AI争议，一句"但它不是我"为何全网刷屏？](https://k.sina.com.cn/article_7879776328_1d5abd84806802bke4.html?from=ent)
-
-- [阿里视听生成模型升级，新视频生成模型拟11月发布](https://finance.sina.com.cn/tech/shenji/2026-09-22/doc-inissitm5735903.shtml)
-
-- [DHS expands identity verification testing to target deepfakes and AI-generated IDs](https://www.biometricupdate.com/202609/dhs-expands-rivr-testing-to-deepfakes-ai-generated-ids)
+- [AI 'Undress' Apps Used to Target Austrian MEP and Dozens of Women in Politics as Calls for EU Action Grow](https://www.ibtimes.co.uk/lena-schilling-ai-nude-deepfakes-eu-action-1826852)
 
 
 - [阿里云发布Wan3.0 AI视频生成模型：支持文/图/视频/音频多模态输入，最长生成30秒视频](https://www.ebrun.com/20260825/698150.shtml)
@@ -263,6 +258,7 @@ A curated collection of the latest research and resources on AI-Generated Image 
 
 | Title | Venue & Year | Modality | Highlights/Keywords | Code |
 | --- | --- | --- | --- | --- |
+| [Temporal Slice Learning for AI-Generated Video Detection with 400$\times$ Fewer FLOPs](https://arxiv.org/abs/2610.35148) | NeurIPS 2026 | `[V]` | TSC-Net, Temporal Slice Representation, Frequency-Aware Slice Consistency Learning, Task-Driven Slice Localization, Lightweight Transformer (1.7M Params), 400$\times$ Fewer FLOPs / 3.6$\times$ Faster Inference, GenVideo & AI-Artist Benchmark | N/A |
 | [Mind the Rift: Cross-Scale Coupling Mismatch for AI-Generated Video Detection](https://arxiv.org/abs/2609.00742) | ACM MM 2026 | `[V]` | Cross-Scale Coupling Mismatch, Macro Temporal Dynamics vs. Pixel-Level Residuals, Persistent Homology, Encoder-Agnostic | [GitHub](https://github.com/Litsay/RIFT) |
 | [MotionPhys: Detecting AI-Generated Videos via Physical Consistency of Optical-Flow Trajectories](https://arxiv.org/abs/2608.20770) | Arxiv 2026 | `[V]` | Physical Motion Consistency, Sparse Optical-Flow Trajectories, Multi-scale Geometric Evolution | N/A |
 | [Rethinking the Readout: Unlocking Video Backbones for AI-Generated Video Detection](https://arxiv.org/abs/2607.15321) | Arxiv 2026 | `[V]` | V-PVP Readout, Patch Velocity Profiling, Frozen Video Backbones | [Code](https://anonymous.4open.science/r/PVP-81B3/) |

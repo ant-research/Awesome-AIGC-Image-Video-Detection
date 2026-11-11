@@ -209,6 +209,7 @@ A curated collection of the latest research and resources on AI-Generated Image 
 - **美亚鉴真** - 微信小程序搜索 **美亚鉴真**
 - **SiliconSignature** - [GitHub](https://github.com/Agnuxo1/Secure_image_generation_with_ASIC_signature) - Hardware-bound image authentication using ASIC PoW nonces for unforgeable provenance certification
 - **EyeSift** - [Website](https://www.eyesift.com/) - Free online AI text/image/video/audio detector with detailed per-model benchmarks
+- **Jura Trace** - [Website](https://juralabs.org/jura-trace) - Free, open-source (AGPL-3.0) desktop app for macOS, Windows and Linux: looks for signs of AI generation and editing, and reads C2PA Content Credentials, on your own computer.
 - **Hive Moderation** - [Website](https://thehive.ai/demos/ai-generated-content-detection)
 - **Tencent Zhuque AI Detection Assistant** - [Website](https://matrix.tencent.com/ai-detect/ai_gen_txt)
 - **AI or Not** - [Website](https://www.aiornot.com/)

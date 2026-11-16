@@ -13,6 +13,10 @@ Selected events in AI-generated image and video detection, provenance and real-w
 
 ### November 2026
 
+- **2026-11-10** · `Release` · [Adobe brings its Creative Agent to Firefly image and video workflows](https://news.adobe.com/news/2026/11/adobe-firefly-expands) — Firefly brings model selection and editing into the same workspace.
+
+- **2026-11-04** · `Release` · [OpenAI releases Images 2.6 with animated GIF generation and finer editing controls](https://openai.com/index/introducing-images-2-6/) — The release adds GIF creation and more precise image edits across ChatGPT and the API.
+
 - **2026-11-02** · `Case` · [Axios traces the use of deepfake ads in US Senate campaigns](https://www.axios.com/newsletters/axios-indianapolis-02a5f43f-3367-4882-98ee-a39a593eb415) — Axios describes how synthetic depictions of candidates appeared in Georgia campaign ads.
 
 ### October 2026

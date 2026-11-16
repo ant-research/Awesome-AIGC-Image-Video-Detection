@@ -29,16 +29,16 @@ A curated collection of the latest research and resources on AI-Generated Image 
 
 ## 🔥 Hot Events
 
-> Last updated: 2026-11-05
+> Last updated: 2026-11-16
 
-- 2026-11-02 · [Axios traces the use of deepfake ads in US Senate campaigns](https://www.axios.com/newsletters/axios-indianapolis-02a5f43f-3367-4882-98ee-a39a593eb415)
+- 2026-11-10 · [Adobe brings its Creative Agent to Firefly image and video workflows](https://news.adobe.com/news/2026/11/adobe-firefly-expands)
+- 2026-11-04 · [OpenAI releases Images 2.6 with animated GIF generation and finer editing controls](https://openai.com/index/introducing-images-2-6/)
 - 2026-10-28 · [抖音公布治理滥用 AI 的恶意营销账号案例](https://news.fznews.com.cn/gngj/20261029/41ilx2u53c.shtml)
 - 2026-10-28 · [AP investigates manipulated videos impersonating real people in Senate races](https://apnews.com/article/c52f2c1720a0bb1ea86545d260aaf969)
 - 2026-10-27 · [UK police report £24.3 million in losses from AI-enabled investment scams](https://www.cityoflondon.police.uk/news/city-of-london/news/2026/october/report-fraud-warning-after-24.3-million-stolen-through-ai-enabled-investment-endorsement-schemes/)
 - 2026-10-27 · [DeepMind introduces Genie 4](https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/)
 - 2026-10-25 · [央视调查 AI 换脸明星带货](https://news.cctv.com/2026/10/25/ARTIGlfSeulXszyO6KXfdod3261025.shtml)
 - 2026-10-22 · [Brennan Center repeats election-image tests on six generators](https://www.brennancenter.org/our-work/analysis-opinion/major-ai-models-are-more-willing-ever-create-fake-election-images)
-- 2026-10-21 · [Teacher awarded damages over deepfake image edits](https://news.sbs.co.kr/english/article.do?news_id=N1008807755)
 - 2026-10-10 · [Nikon withdraws microscopy video prize after reviewing AI use](https://www.abc.net.au/news/2026-10-10/winner-of-nikon-small-world-in-motion-competition-ai-generated/107251164)
 - 2026-09-15 · [Apple introduces Reference Image for verifiable photography](https://security.apple.com/blog/apple-reference-image/)
 - 2025-12-18 · [Gemini adds SynthID checks for Google AI video](https://blog.google/innovation-and-ai/products/verify-google-ai-videos-gemini-app/)
@@ -135,7 +135,7 @@ A curated collection of the latest research and resources on AI-Generated Image 
 | [Mind the Rift: Cross-Scale Coupling Mismatch for AI-Generated Video Detection](https://arxiv.org/abs/2609.00742) | ACM MM 2026 | `[V]` | Cross-Scale Coupling Mismatch, Macro Temporal Dynamics vs. Pixel-Level Residuals, Persistent Homology, Encoder-Agnostic | [GitHub](https://github.com/Litsay/RIFT) |
 | [MotionPhys: Detecting AI-Generated Videos via Physical Consistency of Optical-Flow Trajectories](https://arxiv.org/abs/2608.20770) | Arxiv 2026 | `[V]` | Physical Motion Consistency, Sparse Optical-Flow Trajectories, Multi-scale Geometric Evolution | N/A |
 | [Dataset Biases and Shortcut Learning in Motion-Based AI-Generated Video Detection](https://arxiv.org/abs/2607.00948) | Arxiv 2026 | `[V]` | Motion Bias Analysis, Preprocessing/Sampling Bias, Frequency-based Comparison | N/A |
-| [G2VD: Generalizable AI-Generated Video Detection via Counterfactual Intervention and Causal Disentanglement](https://arxiv.org/abs/2607.04607) | Arxiv 2026 | `[V]` | Counterfactual Intervention, Causal Disentanglement, Cross-domain Generalization | Not publicly accessible |
+| [G2VD: Generalizable AI-Generated Video Detection via Counterfactual Intervention and Causal Disentanglement](https://arxiv.org/abs/2607.04607) | Arxiv 2026 | `[V]` | Counterfactual Intervention, Causal Disentanglement, Cross-domain Generalization | [GitHub](https://github.com/DMOSCAR-98/G2VD) |
 | [CMTA: Leveraging Cross-Modal Temporal Artifacts for Generalizable AI-Generated Video Detection](https://arxiv.org/pdf/2605.00630) | Arxiv 2026 | `[V]` | Cross-Modal Temporal Artifacts, Video Detection | N/A |
 | [DeMamba: AI-Generated Video Detection on Million-Scale GenVideo Benchmark](https://doi.org/10.1007/s11432-024-4894-0) · [arXiv](https://arxiv.org/pdf/2405.19707) | Science China Information Sciences 2026 | `[V]` | Mamba, State Space Model, Long-range Spatiotemporal Inconsistency | [GitHub](https://github.com/chenhaoxing/DeMamba) |
 | [Seeing What Matters: Generalizable AI-generated Video Detection with Forensic-Oriented Augmentation](https://arxiv.org/pdf/2506.16802) | NeurIPS 2025 | `[V]` | Wavelet-band Augmentation, Forensic Frequency Artifacts, Single-generator Generalization | [GitHub](https://github.com/grip-unina/WaveRep-SyntheticVideoDetection) |

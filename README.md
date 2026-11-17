@@ -31,7 +31,7 @@ A curated collection of the latest research and resources on AI-Generated Image 
 
 > Last updated: 2026-11-16
 
-- 2026-11-10 · [Adobe brings its Creative Agent to Firefly image and video workflows](https://news.adobe.com/news/2026/11/adobe-firefly-expands)
+- 2026-11-11 · [MiniMax releases H3-Image weights for 4K image generation and editing](https://www.minimax.io/blog/minimax-h3-image)
 - 2026-11-04 · [OpenAI releases Images 2.6 with animated GIF generation and finer editing controls](https://openai.com/index/introducing-images-2-6/)
 - 2026-10-28 · [抖音公布治理滥用 AI 的恶意营销账号案例](https://news.fznews.com.cn/gngj/20261029/41ilx2u53c.shtml)
 - 2026-10-28 · [AP investigates manipulated videos impersonating real people in Senate races](https://apnews.com/article/c52f2c1720a0bb1ea86545d260aaf969)

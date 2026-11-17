@@ -13,6 +13,8 @@ Selected events in AI-generated image and video detection, provenance and real-w
 
 ### November 2026
 
+- **2026-11-11** · `Release` · [MiniMax releases H3-Image weights for 4K image generation and editing](https://www.minimax.io/blog/minimax-h3-image) — The model supports editing with up to 16 reference images.
+
 - **2026-11-10** · `Release` · [Adobe brings its Creative Agent to Firefly image and video workflows](https://news.adobe.com/news/2026/11/adobe-firefly-expands) — Firefly brings model selection and editing into the same workspace.
 
 - **2026-11-04** · `Release` · [OpenAI releases Images 2.6 with animated GIF generation and finer editing controls](https://openai.com/index/introducing-images-2-6/) — The release adds GIF creation and more precise image edits across ChatGPT and the API.

@@ -29,7 +29,7 @@ A curated collection of the latest research and resources on AI-Generated Image 
 
 ## 🔥 Hot Events
 
-> Last updated: 2026-11-16
+> Last updated: 2026-11-18
 
 - 2026-11-11 · [MiniMax releases H3-Image weights for 4K image generation and editing](https://www.minimax.io/blog/minimax-h3-image)
 - 2026-11-04 · [OpenAI releases Images 2.6 with animated GIF generation and finer editing controls](https://openai.com/index/introducing-images-2-6/)
@@ -39,10 +39,10 @@ A curated collection of the latest research and resources on AI-Generated Image 
 - 2026-10-27 · [DeepMind introduces Genie 4](https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/)
 - 2026-10-25 · [央视调查 AI 换脸明星带货](https://news.cctv.com/2026/10/25/ARTIGlfSeulXszyO6KXfdod3261025.shtml)
 - 2026-10-22 · [Brennan Center repeats election-image tests on six generators](https://www.brennancenter.org/our-work/analysis-opinion/major-ai-models-are-more-willing-ever-create-fake-election-images)
+- 2026-10-15 · [快手发布可灵 4.0，支持最长 30 秒的视频生成](https://ir.kuaishou.com/zh-hans/news-releases/news-release-details/kelingaixinyidaimoxingklin1g-40zhengshishangxian/)
 - 2026-10-10 · [Nikon withdraws microscopy video prize after reviewing AI use](https://www.abc.net.au/news/2026-10-10/winner-of-nikon-small-world-in-motion-competition-ai-generated/107251164)
 - 2026-09-15 · [Apple introduces Reference Image for verifiable photography](https://security.apple.com/blog/apple-reference-image/)
 - 2025-12-18 · [Gemini adds SynthID checks for Google AI video](https://blog.google/innovation-and-ai/products/verify-google-ai-videos-gemini-app/)
-- 2025-10-29 · [Fact-checkers trace viral Hurricane Melissa footage to an AI-labelled upload](https://fullfact.org/environment/hurricane-melissa-video-from-above-ai/)
 - 2025-09-01 · [《人工智能生成合成内容标识办法》施行](https://www.cac.gov.cn/2025-03/14/c_1743654684782215.htm)
 - [⭐️ 蚂蚁安全实验室获CVPR26 AIGC图像检测挑战赛冠军](https://mp.weixin.qq.com/s/xlvP_rkyaLD0Pfp4g3Jwdw)
 - [⭐️ 蚂蚁安全实验室夺冠全球人脸防伪检测挑战赛](https://mp.weixin.qq.com/s/ZZMep9ETEavC99N-GyfRBQ)

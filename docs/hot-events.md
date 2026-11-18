@@ -37,6 +37,8 @@ Selected events in AI-generated image and video detection, provenance and real-w
 
 - **2026-10-21** · `Case` · [Teacher awarded damages over deepfake image edits](https://news.sbs.co.kr/english/article.do?news_id=N1008807755) — The Korean case documents a civil remedy for a victim whose likeness was used in fabricated intimate images.
 
+- **2026-10-15** · `Release` · [快手发布可灵 4.0，支持最长 30 秒的视频生成](https://ir.kuaishou.com/zh-hans/news-releases/news-release-details/kelingaixinyidaimoxingklin1g-40zhengshishangxian/) — 新版支持多关键帧控制和最高 10-bit HDR 输出。
+
 - **2026-10-10** · `Case` · [Nikon withdraws microscopy video prize after reviewing AI use](https://www.abc.net.au/news/2026-10-10/winner-of-nikon-small-world-in-motion-competition-ai-generated/107251164) — The competition reviewed how the footage was processed, an important distinction when evaluating scientific imagery.
 
 ### September 2026

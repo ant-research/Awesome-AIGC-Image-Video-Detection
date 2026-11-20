@@ -207,6 +207,7 @@ A curated collection of the latest research and resources on AI-Generated Image 
 ## Practical Detection Tools
 
 - **美亚鉴真** - 微信小程序搜索 **美亚鉴真**
+- **remove-ai-watermarks (`raiw-source-classify`)** - [GitHub](https://github.com/wiltodelta/remove-ai-watermarks) · [Hugging Face](https://huggingface.co/wiltodelta/raiw-source-classify) - Open-weights (Apache-2.0) CPU-only synthetic image detector and 10-provider attribution model, with a reproducible [20-model false-positive benchmark](https://huggingface.co/spaces/wiltodelta/ai-image-detector-leaderboard)
 - **SiliconSignature** - [GitHub](https://github.com/Agnuxo1/Secure_image_generation_with_ASIC_signature) - Hardware-bound image authentication using ASIC PoW nonces for unforgeable provenance certification
 - **EyeSift** - [Website](https://www.eyesift.com/) - Free online AI text/image/video/audio detector with detailed per-model benchmarks
 - **Hive Moderation** - [Website](https://thehive.ai/demos/ai-generated-content-detection)

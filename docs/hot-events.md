@@ -13,6 +13,8 @@ Selected events in AI-generated image and video detection, provenance and real-w
 
 ### November 2026
 
+- **2026-11-17** · `Release` · [Microsoft releases MAI Image 2.7 and Flash for image generation and localized editing](https://microsoft.ai/news/introducing-mai-image-2-7/) — Both models entered public preview on Microsoft Foundry. They support targeted changes to objects within an existing image.
+
 - **2026-11-11** · `Release` · [MiniMax releases H3-Image weights for 4K image generation and editing](https://www.minimax.io/blog/minimax-h3-image) — The model supports editing with up to 16 reference images.
 
 - **2026-11-10** · `Release` · [Adobe brings its Creative Agent to Firefly image and video workflows](https://news.adobe.com/news/2026/11/adobe-firefly-expands) — Firefly brings model selection and editing into the same workspace.

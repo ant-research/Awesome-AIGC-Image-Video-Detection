@@ -22,6 +22,7 @@
 
 | Title | Venue & Year | Modality | Highlights/Keywords | Code |
 | --- | --- | --- | --- | --- |
+| [WeVisForensics: Self-Evolving Agent for Omni AI-Generated Video Detection](https://arxiv.org/abs/2611.21373) | arXiv 2026 | `[V]` | Agentic Video Forensics, Adaptive Temporal Inspection, Visual Artifact Reasoning | [Code](https://github.com/Tencent/WeVisForensics) · [LoRA weights](https://huggingface.co/tencent/WeVisForensics) |
 | [Agentic Tool-Augmented Reasoning for Explainable Image Forgery Detection](https://arxiv.org/abs/2609.39066) | ACM MM 2026 (Oral) | `[I]` | ATAR, 22 Forensic Tools across 7 Domains, Dual-Stream Forensic Reasoning, Forensics Curriculum Learning | N/A |
 | [Evidence-Guided Detection, Localization and Explanation for Text-Centric Image Forensics](https://arxiv.org/abs/2609.02097) | ACM MM 2026 Challenge | `[I]` | Detector-Localizer-Reasoner Cascade, Iterative Difficulty-Aware Mining, Report-Mask Consistency | [GitHub](https://github.com/peifengLiu42/ACMMM26-evidence-guided-detector-localizer-reasoner-system) |
 | [AGIDefect-4K: A Richly Annotated Dataset for AI-Generated Image Defect Detection, Localization and Explanation](https://arxiv.org/abs/2608.20713) | ACM MM 2026 | `[I]` | AGIDefect-4K Dataset, Hierarchical Defect Annotation, MLLM Baseline (AGIDA) | [GitHub](https://github.com/sxfly99/AGIDefect-4K) |
@@ -42,7 +43,7 @@
 | [DocShield: Towards AI Document Safety via Evidence-Grounded Agentic Reasoning](https://arxiv.org/pdf/2604.02694) | Arxiv 2026 | `[M]` | Agentic Framework, Document Safety | N/A |
 | [VidGuard-R1: AI-Generated Video Detection and Explanation via Reasoning MLLMs and RL](https://arxiv.org/abs/2510.02282) | ICLR 2026 | `[V]` | Multi-stage RL (GRPO), Time Artifacts, Video Detection Dataset | [GitHub](https://github.com/kyoungjunpark/VidGuard-R1) |
 | [FakeXplain: AI-Generated Image Detection via Human-Aligned Grounded Reasoning](https://openreview.net/pdf?id=UcpTOa8OnG) | ICLR 2026 | `[I]` | Grounded Reasoning, Human-annotated Dataset | N/A |
-| [Align, Don't Blend: Orthogonal Supervision Disentanglement As the Key to Generalizable AI-Generated Image Detection](https://arxiv.org/abs/2512.06746) | Arxiv 2026 | `[I]` | Decoupling (Semantic & Pixel), AIGI-Now Dataset | N/A |
+| [Align, Don't Blend: Orthogonal Supervision Disentanglement As the Key to Generalizable AI-Generated Image Detection](https://arxiv.org/abs/2512.06746) | Arxiv 2026 | `[I]` | Decoupling (Semantic & Pixel), AIGI-Now Dataset | [GitHub](https://github.com/GzZning/Align-Dont-Blend) |
 | [Locate-Then-Examine: Grounded Region Reasoning Improves Detection of AI-Generated Images](https://openaccess.thecvf.com/content/CVPR2026/papers/Ji_Locate-Then-Examine_Grounded_Region_Reasoning_Improves_Detection_of_AI-Generated_Images_CVPR_2026_paper.pdf) | CVPR 2026 | `[I]` | Thinking with Images, MagniFake Dataset | N/A |
 | [AgentFoX: LLM Agent-Guided Fusion with eXplainability for AI-Generated Image Detection](https://arxiv.org/pdf/2603.23115) | Arxiv 2026 | `[I]` | Agentic framework | [Github](https://github.com/suncore946/AgentFoX) |
 | [EvoGuard: An Extensible Agentic RL-based Framework for Practical and Evolving AI-Generated Image Detection](https://arxiv.org/pdf/2603.17343) | Arxiv 2026 | `[I]` | Agentic Framework, Method Ensembling | N/A |

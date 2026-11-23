@@ -29,11 +29,11 @@ A curated collection of the latest research and resources on AI-Generated Image 
 
 ## 🔥 Hot Events
 
-> Last updated: 2026-11-18
+> Last updated: 2026-11-23
 
+- 2026-11-17 · [Microsoft releases MAI Image 2.7 and Flash for image generation and localized editing](https://microsoft.ai/news/introducing-mai-image-2-7/)
 - 2026-11-11 · [MiniMax releases H3-Image weights for 4K image generation and editing](https://www.minimax.io/blog/minimax-h3-image)
 - 2026-11-04 · [OpenAI releases Images 2.6 with animated GIF generation and finer editing controls](https://openai.com/index/introducing-images-2-6/)
-- 2026-10-28 · [抖音公布治理滥用 AI 的恶意营销账号案例](https://news.fznews.com.cn/gngj/20261029/41ilx2u53c.shtml)
 - 2026-10-28 · [AP investigates manipulated videos impersonating real people in Senate races](https://apnews.com/article/c52f2c1720a0bb1ea86545d260aaf969)
 - 2026-10-27 · [UK police report £24.3 million in losses from AI-enabled investment scams](https://www.cityoflondon.police.uk/news/city-of-london/news/2026/october/report-fraud-warning-after-24.3-million-stolen-through-ai-enabled-investment-endorsement-schemes/)
 - 2026-10-27 · [DeepMind introduces Genie 4](https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/)

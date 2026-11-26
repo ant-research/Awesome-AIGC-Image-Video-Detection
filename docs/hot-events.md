@@ -15,6 +15,10 @@ Selected events in AI-generated image and video detection, provenance and real-w
 
 - **2026-11-24** · `Release` · [Sand.ai launches MAGI-2 for up to 30 seconds of synchronized audio and video](https://sand.ai/blog/magi-2) — The 480B-parameter model supports 1080p output at 25 fps, up to 20 image, video and audio references, and targeted video edits.
 
+- **2026-11-24** · `Case` · [公安部网安局公布10起使用AI工具编造传播网络谣言案例](https://society.people.com.cn/n1/2026/1124/c1008-40839556.html) — 通报涉及伪造警察身份的图片、视频，以及借校服热点编造的视频。
+
+- **2026-11-23** · `Case` · [US states sue over sexualized images generated with Grok](https://apnews.com/article/452cc64e7169a55868f797982d0e8238) — The lawsuits concern the use of Grok to generate nonconsensual sexualized images.
+
 - **2026-11-17** · `Release` · [Microsoft releases MAI Image 2.7 and Flash for image generation and localized editing](https://microsoft.ai/news/introducing-mai-image-2-7/) — Both models entered public preview on Microsoft Foundry. They support targeted changes to objects within an existing image.
 
 - **2026-11-11** · `Release` · [MiniMax releases H3-Image weights for 4K image generation and editing](https://www.minimax.io/blog/minimax-h3-image) — The model supports editing with up to 16 reference images.

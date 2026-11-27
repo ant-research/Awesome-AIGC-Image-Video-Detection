@@ -13,6 +13,8 @@ Selected events in AI-generated image and video detection, provenance and real-w
 
 ### November 2026
 
+- **2026-11-26** · `Release` · [inclusionAI releases Ming-Image-0.2-Design weights](https://huggingface.co/inclusionAI/Ming-Image-0.2-Design) — The text-to-image model targets graphic design, including text rendering and complex layouts.
+
 - **2026-11-24** · `Release` · [Sand.ai launches MAGI-2 for up to 30 seconds of synchronized audio and video](https://sand.ai/blog/magi-2) — The 480B-parameter model supports 1080p output at 25 fps, up to 20 image, video and audio references, and targeted video edits.
 
 - **2026-11-24** · `Case` · [公安部网安局公布10起使用AI工具编造传播网络谣言案例](https://society.people.com.cn/n1/2026/1124/c1008-40839556.html) — 通报涉及伪造警察身份的图片、视频，以及借校服热点编造的视频。

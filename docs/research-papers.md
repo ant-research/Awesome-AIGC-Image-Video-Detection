@@ -71,6 +71,7 @@
 
 | Title | Venue & Year | Modality | Highlights/Keywords | Code |
 | --- | --- | --- | --- | --- |
+| [Where Detectors Fail: Probing Generative Space for Generalizable AI-Generated Image Detection](https://proceedings.mlr.press/v306/cao26s.html) | ICML 2026 | `[I]` | Detector-Guided Sampling, Hard Examples, Cross-Generator Generalization | [Detector weights](https://www.modelscope.cn/models/shuinishaojiu/PROBE-AIGI-Detection) |
 | [NS-Net: Decoupling CLIP Semantic Information through NULL-Space for Generalizable AI-Generated Image Detection](https://arxiv.org/abs/2508.01248) | IEEE Transactions on Multimedia 2026 (accepted) | `[I]` | CLIP, Null-Space Projection, Cross-Generator Generalization | [GitHub](https://github.com/HorizonTEL/NS-Net) |
 | [Less Supervision, Better Generalization: Weakly Supervised Fake Region Localization in Diffusion-Edited Images](https://arxiv.org/abs/2609.36882) | NeurIPS 2026 | `[I]` | ReGFLoW, First Weakly Supervised Diffusion-Edit Localization, Image-Level Labels Only, Diffusion Reconstruction Error as Dense Guidance, Artifact-Centric MIL | N/A |
 | [EIB-Net: Entropy-Guided Information Bottleneck for Generalizable AI-Generated Image Detection](https://arxiv.org/abs/2609.29064) | ICME 2026 | `[I]` | Image Entropy (IE) Metric, Lowest-Entropy Patch Selection (EGPL), Variational Information Bottleneck, Local Texture Fidelity Cue, 2% Training Data SOTA, Backbone-Agnostic | N/A |

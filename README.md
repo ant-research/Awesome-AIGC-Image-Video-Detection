@@ -29,8 +29,9 @@ A curated collection of the latest research and resources on AI-Generated Image 
 
 ## 🔥 Hot Events
 
-> Last updated: 2026-11-26
+> Last updated: 2026-11-27
 
+- 2026-11-26 · [inclusionAI releases Ming-Image-0.2-Design weights](https://huggingface.co/inclusionAI/Ming-Image-0.2-Design)
 - 2026-11-24 · [Sand.ai launches MAGI-2 for up to 30 seconds of synchronized audio and video](https://sand.ai/blog/magi-2)
 - 2026-11-24 · [公安部网安局公布10起使用AI工具编造传播网络谣言案例](https://society.people.com.cn/n1/2026/1124/c1008-40839556.html)
 - 2026-11-23 · [US states sue over sexualized images generated with Grok](https://apnews.com/article/452cc64e7169a55868f797982d0e8238)
